@@ -70,6 +70,7 @@ This project implements an advanced image captioning system using deep learning 
 - Use the `live_caption_generator()` function to generate captions from webcam input
 - Press 'Space' to capture and generate a caption
 - Press 'Q' to quit
+![![alt text](https://)](image-4.png)
 
 ## Model Performance Visualization
 
@@ -77,6 +78,9 @@ The project includes visualization of:
 - Training and validation loss
 - Sample image caption generation
 - BLEU score comparisons
+![![alt text](https://)](image-1.png)
+![![alt text](https://)](image-2.png)
+![![alt text](https://)](image-3.png)
 
 ## Customization
 
